@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pandas = "*"
 seaborn = "*"
+fitter = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
