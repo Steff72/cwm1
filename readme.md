@@ -17,16 +17,16 @@ These instructions will get you a copy of the project up and running on your loc
 - Libraries: numpy, matplotlib, pandas, seaborn, fitter, scipy
 
 ### Installation
-1. **Install pipenv**
+1. **Install pipenv:**
     pip install pipenv
 
-2. **Clone the repository**
+2. **Clone the repository:**
     git clone https://github.com/Steff72/cwm1
 
-3.	**Install required packages and activate environment** 
+3.	**Install required packages and activate environment:** 
     pipenv install
     
-4. **To activate environment**
+4. **To activate environment:**
     pipenv shell
 
 ### How It Works
